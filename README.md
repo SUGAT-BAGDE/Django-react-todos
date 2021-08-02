@@ -48,6 +48,12 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
+To use static files in production
+
+```bash
+  pip install -r requirements.txt
+```
+
 Start the server
 
 ```bash
