@@ -51,7 +51,7 @@ Install dependencies
 To use static files in production
 
 ```bash
-  pip install -r requirements.txt
+  python manage.py collectstatic
 ```
 
 Start the server
